@@ -1,7 +1,7 @@
 # TINY_IMAGENET
 
 
-This project is very similar to the [CIFAR](https://github.com/NullConvergence/CIFAR) project.
+This project is very similar to the [CIFAR](https://github.com/NullConvergence/CIFAR_ADV) project.
 
 
 ### Run:
